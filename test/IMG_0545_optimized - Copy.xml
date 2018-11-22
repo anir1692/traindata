@@ -1,0 +1,38 @@
+<annotation>
+	<folder>test</folder>
+	<filename>IMG_0545_optimized - Copy.jpg</filename>
+	<path>D:\tensorflow1\models\research\object_detection\images\test\IMG_0545_optimized - Copy.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>1440</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>modem</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>87</xmin>
+			<ymin>935</ymin>
+			<xmax>962</xmax>
+			<ymax>1138</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>NETGEAR</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>129</xmin>
+			<ymin>997</ymin>
+			<xmax>304</xmax>
+			<ymax>1047</ymax>
+		</bndbox>
+	</object>
+</annotation>
